@@ -2,7 +2,7 @@
 - 👀 I’m interested in .Net, Web Development, Python
 - 🌱 I’m currently learning everything said before and more
 - 💞️ I’m looking to collaborate on anything mentioned above
-- 📫 How to reach me jakob545@gmail.com
+- 📫 How to reach me jakob.winkler@outlook.at
 
 <!---
 JakobWl/JakobWl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
